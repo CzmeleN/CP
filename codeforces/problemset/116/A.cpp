@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-    short n, cap = 0, max = 0, x;
+    short n;
+    int cap = 0, max = 0, x;
 
     std::cin >> n;
 
